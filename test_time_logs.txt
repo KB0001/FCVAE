@@ -1,0 +1,111 @@
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:381.1592695713043
+speed:7994.4114
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:109.67700099945068
+speed:27782.8895
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:1.2718980312347412
+speed:211738.6720
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:61.999600887298584
+speed:49147.8003
+
+dataset test:./data/AIOPS
+dataset test size:3047144(5952)
+cost time:6125.59999
+speed:497
+-----------------------------------
+dataset test:./data/Yahoo
+dataset test size:269310(526)
+cost time:136.30563616752625
+speed:1975.7804
+
+dataset test:./data/NAB
+dataset test size:79008(155)
+cost time:43.66865277290344
+speed:1809.2612
+
+dataset test:./data/WSD
+dataset test size:3808854(7440)
+cost time:6190
+speed:615.32
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:254.98472905158997
+speed:11950.3000
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:76.24010014533997
+speed:39967.7334
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:166.85249662399292
+speed:1614.0604
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:147.93379712104797
+speed:1820.4765
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:36.45858669281006
+speed:83578.2260
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:143.96062779426575
+speed:1870.7198
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:144.949077129364
+speed:1857.9628
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:145.25542521476746
+speed:1854.0443
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:5231.406969547272
+speed:582.4712
+
+dataset test:./data/WSD
+dataset test size:3808854
+cost time:1708.4135446548462
+speed:2229.4684
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:3371.013113975525
+speed:903.9253
+
+dataset test:./data/Yahoo
+dataset test size:269310
+cost time:132.21188163757324
+speed:2036.9576
+
+dataset test:./data/AIOPS
+dataset test size:3047144
+cost time:125.7524631023407
+speed:24231.2868
+
+dataset test:./data/WSD
+dataset test size:3808854
+cost time:1570.9522845745087
+speed:2424.5510
+

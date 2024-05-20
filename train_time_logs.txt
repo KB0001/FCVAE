@@ -1,0 +1,35 @@
+dataset test:./data/Yahoo
+dataset train size:183221
+dataset val size:68688
+cost time:126.77988266944885
+
+dataset test:./data/Yahoo
+dataset train size:183221
+dataset val size:68688
+cost time:126.90281438827515
+
+dataset test:./data/AIOPS
+dataset train size:2092147
+dataset val size:985726
+cost time:1437.5663957595825
+
+dataset test:./data/Yahoo
+dataset train size:183221
+dataset val size:68688
+cost time:578.7087271213531
+
+dataset test:./data/NAB
+dataset train size:55205
+dataset val size:23488
+cost time:213.66212558746338
+
+dataset test:./data/WSD
+dataset train size:2654535
+dataset val size:1115511
+cost time:3586.5798349380493
+
+dataset test:./data/Yahoo
+dataset train size:183221
+dataset val size:68688
+cost time:159.01211285591125
+
